@@ -1,0 +1,52 @@
+
+#bannerimage {
+
+
+
+    border-radius: 50px;/*Identique à border-radius: 50px/50px*/
+
+    width: 100%;
+  background-image: url(./Images/banniereviolette.png);
+  height: 200px;
+  
+  background-position: center;
+text-align: center;
+
+}
+
+#txtbrut{
+color: rgb(237, 149, 234);
+
+}
+
+h1 {
+    line-height: 200px;
+    font-family: 'Dancing Script', cursive;
+
+     font-size: 500%; /* 150% de la taille de la police de l'élément parent */
+  }
+
+
+{
+    <img src="./Images/banniereviolette.png" alt=banniere voilette> 
+    background-color: black; /* Couleur de fond noire */
+    margin: 0; /* Supprime les marges par défaut du corps de la page */
+    padding: 0; /* Supprime les espacements intérieurs par défaut du corps de la page */
+}
+
+body{
+background-color: rgb(0, 0, 0);
+
+}
+
+
+section {
+    color: rgb(101, 76, 100);
+    text-align: center; 
+
+  }
+h2 
+
+
+
+
